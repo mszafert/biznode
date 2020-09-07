@@ -1,0 +1,16 @@
+{
+  "name": "biznode",
+  "description": "Contractor Manager",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mszafert/biznode.git"
+  },
+  "author": {
+    "name": "Marcin Szafert (PGS Software)",
+    "email": "mszafert@pgs-soft.com"
+  },
+  "license": "MIT"
+}
